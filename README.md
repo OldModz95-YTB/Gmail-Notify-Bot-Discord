@@ -54,7 +54,7 @@ npm install discord.js node-imap enmap
 
 <br><br>
 
-IF YOU WANNA SEE BASE64 EMAILS like PAYPAL then UNCOMMENt line 77 in `emails.js` --> theBuffer = `Buffer.from(theBuffer, "base64")`
+IF YOU WANNA SEE BASE64 EMAILS like PAYPAL then UNCOMMENt line 77 in `emails.js` --> `theBuffer = Buffer.from(theBuffer, "base64")`
 
 <br><br>
 
